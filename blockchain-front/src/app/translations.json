@@ -1,0 +1,53 @@
+{
+    "languages": [
+        {
+            "name": "Srpski",
+            "code": "srb"
+        },
+        {
+            "name": "English",
+            "code": "eng"            
+        }
+    ],
+    "translations": [
+        {
+            "resource": "label_accounts",
+            "translations": [
+                {
+                    "languageCode": "eng",
+                    "translation": "ACCOUNTS"
+                },
+                {
+                    "languageCode": "srb",
+                    "translation": "Nalozi"
+                }
+            ]
+        },
+        {
+            "resource": "label_blocks",
+            "translations": [
+                {
+                    "languageCode": "eng",
+                    "translation": "BLOCKS"
+                },
+                {
+                    "languageCode": "srb",
+                    "translation": "BLOKOVI"
+                }
+            ]
+        },
+        {
+            "resource": "label_transactions",
+            "translations": [
+                {
+                    "languageCode": "eng",
+                    "translation": "TRANSACTIONS"
+                },
+                {
+                    "languageCode": "srb",
+                    "translation": "TRANSAKCIJE"
+                }
+            ]
+        }
+    ]
+}

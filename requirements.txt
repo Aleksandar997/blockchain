@@ -1,0 +1,7 @@
+hashlib
+numpy == 1.21.1
+ecdsa == 0.17.0
+utilitybelt == 0.2.6
+base58 == 2.1.0
+Flask == 2.0.1
+pyrebase == 3.0.27

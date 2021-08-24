@@ -1,0 +1,32 @@
+{
+    "menus": [
+        {
+            "icon": "AccountBox",
+            "name": "label_accounts",
+            "code": "accounts",
+            "route": "/accounts",
+            "columns": [
+                {
+                    "name": "Address",
+                    "id": "address"
+                },
+                {
+                    "name": "Balance",
+                    "id": "balance"
+                }
+            ]
+        },
+        {
+            "icon": "ViewModule",
+            "name": "label_blocks",
+            "code": "blocks",
+            "route": "/blocks"
+        },
+        {
+            "icon": "SwapHoriz",
+            "name": "label_transactions",
+            "code": "transactions",
+            "route": "/transactions"
+        }
+    ]
+}
